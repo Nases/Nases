@@ -1,4 +1,3 @@
 [The Ultimate Next.js Boilerplate](https://nextjsboilerplate.com/) | [SpaceX Launch Schedule - Live](https://spacexschedule.com/)
 ------------ | -------------
-Content cell 1 | ![SpaceX Launch Schedule Logo](https://github.com/Nases/Nases/blob/main/spacexschedule.png)
-Content column 1 | Content column 2
+![The Ultimate Next.js Boilerplate](https://github.com/Nases/Nases/blob/main/nextjsboilerplate.png) | ![SpaceX Launch Schedule Logo](https://github.com/Nases/Nases/blob/main/spacexschedule.png)
