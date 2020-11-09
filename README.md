@@ -1,1 +1,4 @@
-![image](https://github.com/Nases/Nases/blob/main/is-this-how-we-supposed-to-use-github-readme.gif)
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
